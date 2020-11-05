@@ -1,0 +1,12 @@
+body{
+  font-size: 20px;
+  line-height: 200%;
+  text-align: justify;
+}
+
+#picLeft{
+  width: 50%;
+  float: left;
+  margin-right: 10px;
+  font-size: 12px;
+}
